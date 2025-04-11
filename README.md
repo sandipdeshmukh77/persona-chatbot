@@ -41,7 +41,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/persona-chatbot.git
+git clone https://github.com/sandipdeshmukh77/persona-chatbot.git
 cd persona-chatbot
 ```
 
