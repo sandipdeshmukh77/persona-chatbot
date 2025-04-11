@@ -2,7 +2,7 @@
 
 A React application that simulates a language model chatbot with switchable personas. Users can select different chatbot personalities to interact with, each providing responses in a unique style.
 
-
+![Persona Chatbot Interface](/public/img.jpg)
 
 ## Features
 
